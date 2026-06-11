@@ -19,7 +19,6 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 ## Project Structure
 
 * `index.html` – Game layout and structure
-* `style.css` – Styling and design
 * `script.js` – Game logic and winner detection
 
 ## Author
